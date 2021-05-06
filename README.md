@@ -8,8 +8,7 @@
 
 [<img width="22" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg" />][linkedin]
 
-candasgenis1@gmail.com
-
+[<img width="22" src="https://unpkg.com/simple-icons@v4/icons/gmail.svg" />][gmail]
 
 
 
@@ -26,5 +25,5 @@ candasgenis1@gmail.com
 
 
 [linkedin]: https://www.linkedin.com/in/candasgenis
-
+[gmail]: mailto:candasgenis1@gmail.com
 
