@@ -7,6 +7,10 @@
 ### Reach out to me:
 
 [<img width="22" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg" />][linkedin]
+[<img width="22" src="https://unpkg.com/simple-icons@v4/icons/gmail.svg" />][gmail]
+
+
+
 
 ### Tech I used before:
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="25" height="25" />
@@ -21,6 +25,7 @@
 
 
 [linkedin]: https://www.linkedin.com/in/candasgenis
+[gmail]: candasgenis1@gmail.com
 <!--
 **candasgenis/candasgenis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
