@@ -6,9 +6,9 @@
 
 ### Reach out to me:
 
-[<img width="22" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg" />][linkedin]
+[<img align="left" width="25" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg" />][linkedin]
+[<img width="25" src="https://unpkg.com/simple-icons@v4/icons/gmail.svg" />][gmail]
 
-[<img width="22" src="https://unpkg.com/simple-icons@v4/icons/gmail.svg" />][gmail]
 
 
 
