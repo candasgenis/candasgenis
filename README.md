@@ -1,7 +1,7 @@
 ### Hi there, I'm Candaş
 
 ### Software Engineering Undergraduate at Bahcesehir University
-- 🔭 I’m currently working on Cryto Exchange App with Binance API | Mobile Matching App Project
+- 🔭 I’m currently working on Crypto Exchange App with Binance API | Mobile Matching App Project
 - 🌱 I’m currently learning React Native
 
 ### Reach out to me:
