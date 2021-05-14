@@ -1,7 +1,7 @@
 ### Hi there, I'm Candaş
 
-### Software Engineering Intern at Orion Innovations | Software Engineering Undergraduate at Bahcesehir University
-- 🔭 I’m currently working on Web Development | Mobile Matching App Project
+### Software Engineering Undergraduate at Bahcesehir University
+- 🔭 I’m currently working on Cryto Exchange App with Binance API | Mobile Matching App Project
 - 🌱 I’m currently learning React Native
 
 ### Reach out to me:
