@@ -1,8 +1,8 @@
 ### Hi there, I'm Candaş
 
 ### Software Engineering Undergraduate at Bahcesehir University
-- 🔭 I’m currently working on e-commerce App with React Native | Mobile Matching App Project
-- 🌱 I’m currently learning React Native
+- 🔭 I’m currently developing an Software Service App for Amazon sellers with Python
+- 🌱 I’m currently learning Python Sanic Framework
 
 ### Reach out to me:
 
