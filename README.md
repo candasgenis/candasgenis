@@ -2,7 +2,7 @@
 
 ### Software Engineering Undergraduate at Bahcesehir University
 - 🔭 I’m currently developing an Software Service App for Amazon sellers with Python
-- 🌱 I’m currently learning Python Sanic Framework
+- 🌱 I’m currently learning Go Programming Language
 
 ### Reach out to me:
 
