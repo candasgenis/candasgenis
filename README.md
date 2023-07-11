@@ -1,8 +1,8 @@
 ### Hi there, I'm Candaş
 
-### Software Engineering Undergraduate at Bahcesehir University
-- 🔭 I’m currently developing an Software Service App for Amazon sellers with Python
-- 🌱 I’m currently learning Go Programming Language
+### Software Engineer at Huawei, Software Engineering Graduate at Bahcesehir University
+- 🔭 I’m currently working as a Software Engineer for almost one year.
+- 🌱 I’m currently trying to improve myself on technologies like Redis, Docker and Kubernetes.
 
 ### Reach out to me:
 
