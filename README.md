@@ -1,8 +1,8 @@
 ### Hi there, I'm Candaş
 
 ### Software Engineer at Huawei, Software Engineering Graduate at Bahcesehir University
-- 🔭 I’m currently working as a Software Engineer for almost one year.
-- 🌱 I’m currently trying to improve myself on technologies like Redis, Docker and Kubernetes.
+- 🔭 I’m currently working as a Software Engineer for almost two years.
+- 🌱 I’m currently trying to improve myself on technologies like Spring Framework, gRPC and Kafka.
 
 ### Reach out to me:
 
