@@ -1,8 +1,7 @@
 ### Hi there, I'm Candaş
 
-### Software Engineer at Huawei, Software Engineering Graduate at Bahcesehir University
-- 🔭 I’m working as a Software Engineer for almost four years.
-- 🌱 I’m currently trying to improve myself on technologies like Spring Framework, gRPC and Kafka.
+### Software Engineer at Fibabanka, Software Engineering Graduate from Bahcesehir University
+- 🔭 Working as a Software Engineer for almost four years
 
 ### Reach out to me:
 
